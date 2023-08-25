@@ -1,0 +1,5 @@
+El primer tema que propusimos fue acerca de mi libro favorito "El Señor de los Anillos", el cual estreno una nueva serie el año pasado que no terminó de gustarle a los fanáticos y generó pérdidas monetarias y de audiencias progresivas, por lo que pensamos analizar su fenómeno de fracaso numéricamente. Pero esta serie ya lleva estrenada un buen rato y su segunda temporada no se estrena hasta el próximo año, por lo que no nos pareció relevante analizarlo.
+
+El segundo tema que se nos ocurrió fue el del problema de la salud mental en Chile, el cual cuenta con muchos datos numéricos y estudios actualmente. Pero finalmente consideramos que es un tema demasiado abarcado ultimamente, por lo que lo descartamos
+
+Finalmente, nos decidimos por el fenómeno del abandono del aparato público a los deportistas profesionales de Chile que no son futbolistas. Creímos que este tópico cobra especial relevancia hoy ya que se acercan los juegos Panamericanos 2023 que se celebrarán justamente en Chile, además es una cuestión de larga data que no ha tenido estudios cuantitativos suficientes desde el área de la sociología.
