@@ -3,3 +3,8 @@ El primer tema que propusimos fue acerca de mi libro favorito "El Señor de los 
 El segundo tema que se nos ocurrió fue el del problema de la salud mental en Chile, el cual cuenta con muchos datos numéricos y estudios actualmente. Pero consideramos que es un tema demasiado abarcado, por lo que lo descartamos.
 
 Finalmente, nos decidimos por el fenómeno del abandono del aparato público a los deportistas profesionales de Chile que no son futbolistas. Creímos que este tópico cobra especial relevancia hoy ya que se acercan los juegos Panamericanos 2023 que se celebrarán justamente en Chile, además, es una cuestión de larga data que no ha tenido estudios cuantitativos suficientes desde el área de la sociología.
+
+
+| Nombre           | Email UC               |
+|:-----------------|:-----------------------|
+| Agustín Monsalve | agustn.monsalve@uc.cl  |
