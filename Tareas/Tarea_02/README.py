@@ -4,6 +4,7 @@ for x in range(100):
   print(x+1)
 
 
+
 2. #Hacer un pragama que imprima los números del 1 al 100 que sean divisibles entre 3 (con resto 0)
 
 for x in range(100):
@@ -28,4 +29,5 @@ elif(suma>=150):
 print(resultado)
 
 
-4. 
+4. #Generar un programa que combine variables, tipos de datos y una condicional en Python (hacer una función que evalúe si el usuario es mayor de edad y si le gusta la programación, que envíe diferentes textos según la respuesta del usuario)
+
