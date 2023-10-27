@@ -5,6 +5,7 @@ La historia que pretendo contar a través de mi visualización atómica es cuál
 El resultado final arrojó que, según la cantidad de pasos fusionada de todos los miércoles transcurridos durante la medición (31 días), este correspondería al día en que más caminatas efectúo al mes. Ello encontraría explicación en que es la única jornada durante el semestre en que me quedo a almorzar en la universidad, teniendo que recorrer facultades buscando un microondas para calentar mi comida o esperar parado a que termine de calentarse en el aparato.
 
 
+
 # Pasos del procedimiento:
 
 1) Para empezar a contar este aspecto sobre mí, tuve que volver a la base de datos inicial y modificarla, añadiendo una columna sobre el día de la semana en que los pasos fueron efectuados.
