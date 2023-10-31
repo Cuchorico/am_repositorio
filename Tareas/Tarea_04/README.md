@@ -1,6 +1,6 @@
 # Data Self Portrait
 
-La historia que pretendo contar a través de mi visualización atómica es cuál es día de la semana en que suelo caminar más en base a la acumulación de pasos categorizada por día de la semana durante los 31 en que se efectuó la medición.
+La historia que pretendo contar a través de mi visualización atómica es cuál es el día de la semana en que suelo caminar más, en base a la acumulación de pasos categorizada por día de la semana durante los 31 en que se efectuó la medición.
 
 El resultado final arrojó que, según la cantidad de pasos fusionada de todos los miércoles transcurridos durante la medición (31 días), este correspondería al día en que más caminatas efectúo al mes. Ello encontraría explicación en que es la única jornada durante el semestre en que me quedo a almorzar en la universidad, teniendo que recorrer facultades buscando un microondas para calentar mi comida o esperar parado a que termine de calentarse en el aparato.
 
